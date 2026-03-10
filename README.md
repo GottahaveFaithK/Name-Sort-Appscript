@@ -3,4 +3,4 @@ This project was created when I was working on a spreadsheet with a few other pe
 
 So, I created an appscript extension that created a Sort Menu, which could sort the sheet by column A alphabeticallly, sorting it by first name. Then I created a second function which would grab the last name (and ignore any middle names listed), and then sort the sheet alphabeitcally by last names.
 
-Later we added an option to sort by town.
+Later I added an option to sort by town.
